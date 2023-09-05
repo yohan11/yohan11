@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=shark&color=#9C9EFD&height=250&section=header&text=junyeong's%20GitHub&fontSize=70&animation=scaleIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=B4A7D6&height=200&section=header&text=iamjunyeong&fontSize=90&fontColor=5E5858)
