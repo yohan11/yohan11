@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=B4A7D6&height=200&section=header&text=iamjunyeong&fontSize=90&fontColor=5E5858)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyohan11&count_bg=%239B89DB&title_bg=%23555555&icon=waze.svg&icon_color=%23D3D1D1&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ```
  __________________________________
 < 제 깃허브에 어서오세요 >
