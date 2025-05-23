@@ -30,7 +30,7 @@
 ### Platforms & Languages
 ![React logo](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next.js-000000.svg?&style=for-the-badge&logo=Next.js&logoColor=white)
-![Tawilwind CSS](https://img.shields.io/badge/Tailwind%20CSS-20CSS-06B6D4.svg?&style=for-the-badge&logo=Tailwind%20CSS&logoColor=white)
+![Tawilwind CSS](https://img.shields.io/badge/Tailwind%20CSS-20CSS-06B6D4.svg?&style=for-the-badge&logo=Talwind%20CSS&logoColor=white)
 ![Python logo](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![Typescript](https://img.shields.io/badge/Typescript-3178C6.svg?&style=for-the-badge&logo=Typescript&logoColor=white)
 ![javascript logo](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
