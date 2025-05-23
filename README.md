@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=B4A7D6&height=200&section=header&text=iamjunyeong&fontSize=90&fontColor=5E5858)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyohan11&count_bg=%239B89DB&title_bg=%23555555&icon=waze.svg&icon_color=%23D3D1D1&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 ```
  __________________________________
 < 제 깃허브에 어서오세요 >
@@ -29,12 +27,10 @@
                   ""VXXXXXXXXXXXXXXXXXXV""
 ```
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yipco77)](https://solved.ac/yipco77/)
-
 ### Platforms & Languages
 ![React logo](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)
-![html5 logo](https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
-![css3 logo](https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![Next logo](https://img.shields.io/badge/Next-61DAFB.svg?&style=for-the-badge&logo=Next&logoColor=white)
+![Tailwind logo](https://img.shields.io/badge/Tailwind-61DAFB.svg?&style=for-the-badge&logo=Tailwind&logoColor=white)
 ![Python logo](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![javascript logo](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
 ![mysql logo](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
