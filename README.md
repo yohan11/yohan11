@@ -30,7 +30,8 @@
 ### Platforms & Languages
 ![React logo](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/>
+![Tawilwind CSS](https://img.shields.io/badge/Tailwind%20CSS-20CSS-06B6D4.svg?&style=for-the-badge&logo=Tailwind%20CSS&logoColor=white)
+출처: https://soo-vely-dev.tistory.com/159#4. shiedls.io-1-3 [soo_vely의 개발로그:티스토리]
 ![Python logo](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
 ![javascript logo](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
